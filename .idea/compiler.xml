@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pro04-module-web" />
+        <module name="pro11-module-y" />
+        <module name="pro05-module-properties" />
+        <module name="pro09-module-d" />
+        <module name="pro15-module-use-outer" />
+        <module name="pro10-module-x" />
+        <module name="pro03-module-java" />
+        <module name="pro08_maven_module" />
+        <module name="pro08-module-c" />
+        <module name="pro12-module-z" />
+        <module name="pro07-module-b" />
+        <module name="pro13-module-use-my-plugin" />
+        <module name="pro14-module-profile" />
+        <module name="pro06-module-a" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="pro03-module-java" options="" />
+      <module name="pro04-module-web" options="" />
+      <module name="pro05-module-properties" options="" />
+    </option>
+  </component>
+</project>
